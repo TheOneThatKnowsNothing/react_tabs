@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_tabs/static/css/main.d32604f3.chunk.css",
+    "main.js": "/react_tabs/static/js/main.53873972.chunk.js",
+    "main.js.map": "/react_tabs/static/js/main.53873972.chunk.js.map",
+    "runtime-main.js": "/react_tabs/static/js/runtime-main.c378bf35.js",
+    "runtime-main.js.map": "/react_tabs/static/js/runtime-main.c378bf35.js.map",
+    "static/css/2.4a977f18.chunk.css": "/react_tabs/static/css/2.4a977f18.chunk.css",
+    "static/js/2.c7f4adbd.chunk.js": "/react_tabs/static/js/2.c7f4adbd.chunk.js",
+    "static/js/2.c7f4adbd.chunk.js.map": "/react_tabs/static/js/2.c7f4adbd.chunk.js.map",
+    "index.html": "/react_tabs/index.html",
+    "static/css/2.4a977f18.chunk.css.map": "/react_tabs/static/css/2.4a977f18.chunk.css.map",
+    "static/css/main.d32604f3.chunk.css.map": "/react_tabs/static/css/main.d32604f3.chunk.css.map",
+    "static/js/2.c7f4adbd.chunk.js.LICENSE.txt": "/react_tabs/static/js/2.c7f4adbd.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/react_tabs/static/media/fa-v4compatibility.ea853511.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c378bf35.js",
+    "static/css/2.4a977f18.chunk.css",
+    "static/js/2.c7f4adbd.chunk.js",
+    "static/css/main.d32604f3.chunk.css",
+    "static/js/main.53873972.chunk.js"
+  ]
+}
